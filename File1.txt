@@ -1,10 +1,8 @@
 testing file
+untesting file
 commit test
 456
-<<<<<<< HEAD
-
 Add Line
-=======
 789.
 765.
->>>>>>> af138de3075057a13ffb405576813ac9fe71b048
+
